@@ -1,0 +1,2 @@
+export const HEADLINE = 'Schaden melden';
+export const DESCRIPTION = 'Mit diesem Formular können Sie uns einen Schaden melden. Felder die mit einem * makiert sind sind Pflichtfelder und müssen ausgefüllt werden.';
